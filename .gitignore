@@ -1,0 +1,15 @@
+
+/dist/
+
+/.idea/
+
+**.iml
+
+target
+
+/out
+
+/out.zip
+
+/log
+
